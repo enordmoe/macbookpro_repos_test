@@ -26,6 +26,7 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 ---
 class: center, bottom
 
+
 # xaringan
 
 ### /ʃaː.'riŋ.ɡan/
